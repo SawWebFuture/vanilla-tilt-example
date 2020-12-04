@@ -1,12 +1,13 @@
-# Getting Started with Create React App
+# Vanilla Tilt React JS Effect
 
 Created and developed by Scott "Guru Scott" Williams.
 
-Use as you wish and enjoy.
+### Description
 
-# To start:
-1. Download and run: npm install
+Created a Video Tutorial of this project which is on [YouTube](https://youtu.be/69wjsfO0cGk). This React JS Effect creates a 3D Card & Parallax Tilt Effect which can add life to your desktop web app.
 
-2. yarn start
+===========
 
-3. enjoy
+Todo:
+- Make Responsive and add more elements
+
